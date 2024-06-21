@@ -78,7 +78,7 @@ export default function Home() {
           <Typography className="max-w-2xl" variant="h1">
             Get in touch
           </Typography>
-          <div>Book a demo, or hop on a call</div>
+          <div>Hello</div>
           <Link
             href="https://map.sistilli.dev/public/coding/SaaS+Boilerplate"
             target="_blank"
